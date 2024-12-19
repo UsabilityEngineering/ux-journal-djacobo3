@@ -4,8 +4,10 @@ My name is David Jacobo and I am a Computer Science major. I'm a fourth-year stu
 
 ## UX Team Project
 
-Coming soon.
+[Dynamic Scheduler](https://chicostate.github.io/ux-DynamicScheduler/)
 
 ## UX Journal
 
 [Just like a TV!](j01/)
+
+[Just like a TV! (v2)](j02/)
