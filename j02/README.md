@@ -14,7 +14,7 @@ After attaching the two cables, I was ready to turn on the device.
 
 <img src="a3.jpg">
 
-With the remote control in hand, I instinctively pressed the red button at the top which is typically the power button. In fact, for the remainder of the setup, I found myself using this remote as if it were for a modern TV (*home button, directional arrows around the OK, back arrow for return, and volume controls*). This goes to show how **consistent** this device is with **standards** for other broadcasting devices that are designed to be used in daily life by people of all ages.
+With the remote control in hand, I instinctively pressed the red button at the top which is typically the power button. In fact, for the remainder of the setup, I found myself using this remote as if it were for a modern TV (*home button, directional arrows around the OK, back arrow for return, and volume controls*). This goes to show how **consistent** this device is with previous **design conventions** for other broadcasting devices that are designed to be used in daily life by people of all ages.
 
 <img src="a4.jpg">
 
@@ -34,4 +34,4 @@ It only took a few seconds after pressing *OK* for my screen to pop up without a
 
 <img src="a8.jpg">
 
-Overall, the experience was basically seamless. All of my approaches flowed together as if my own **mental model** of the setup process was accurate to the **conceptual model**, or how the projector actually works. I’m confident that its simplicity and flexibility with other input methods will provide a comfortable and **satisfying** experience for others who are interested in a projector.
+Overall, the experience was basically seamless. All of my approaches flowed together as if my own **mental model** of the setup process was accurate to the **conceptual model** that the designers intended. My mental model was shaped by my expectation of the projector remote control acting similar to a TV remote and the focus adjustment being similar to a digital camera lens. The conceptual model that the designers intended is made clear by the labeling on the control, projector device, and menu. Even if the instructions aren't too necessary, they do reaffirm that I'm using the device correctly as I expected. I’m confident that its simplicity and flexibility with other input methods will provide a comfortable and **satisfying** experience for others who are interested in a projector.
